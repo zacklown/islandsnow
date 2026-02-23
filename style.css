@@ -5,3 +5,21 @@ section {
 .navbar .bi {
   font-size: 1.1rem;
 }
+
+.site-footer {
+  background-color: #292929;
+  color: #fff;
+}
+
+.site-footer hr {
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+.footer-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
